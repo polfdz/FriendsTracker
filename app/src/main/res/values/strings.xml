@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FriendsTracker</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="warning_friends">Enable location to track friends</string>
+    <string name="search_friends">Search friends</string>
+    <string name="add_friend">+ Add</string>
+    <string name="friends_requests">You have no friends requests</string>
+    <string name="accept_request">+ Accept</string>
+    <string name="cancel_request">- Cancel</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="BASE_URL">aaa</string>
+    <string name="username">user name</string>
+
+</resources>
